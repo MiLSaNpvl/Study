@@ -1,6 +1,6 @@
 <?php
 
-system("ls -la");
+phpinfo();
 
 ?> 
 
